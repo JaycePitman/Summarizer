@@ -1,2 +1,2 @@
 # Summarizer
-A tool using OpenAI and LangChain to summarize pdf documents.
+A tool using Python, OpenAI, and LangChain to summarize pdf documents.
